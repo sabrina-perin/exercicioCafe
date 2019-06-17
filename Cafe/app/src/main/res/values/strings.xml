@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="titulo">Selecione seu Cafe e Quantidade</string>
+    <string name="cafe">Café</string>
+    <string name="cafeleite">Café com Leite</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string-array name="quantidade">
+        <item>Selecione</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="preco">Preço</string>
+    <string name="unidade">Preço Unitário</string>
+    <string name="total">Preço Total</string>
+    <string name="valorunidade">R$--,--</string>
+    <string name="valortotal">R$--,--</string>
+    <string name="fazerpedido">Fazer Pedido</string>
+</resources>
